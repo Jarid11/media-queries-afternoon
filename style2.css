@@ -1,0 +1,41 @@
+#mainNav {
+  background-color: #212529;
+}
+
+header.masthead {
+  text-align: center;
+  color: #fff;
+  background-image: url(../img/header-bg.jpg);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+#services {
+  padding: 100px 0;
+}
+
+section {
+  padding: 100px 0;
+}
+
+.bg-light {
+  background-color: #f8f9fa !important;
+}
+
+.py-5 {
+  padding-top: 3rem !important;
+}
+
+section#contact {
+  background-color: #212529;
+  background-image: url(../img/map-image.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+footer {
+  padding: 25px 0;
+  text-align: center;
+}
